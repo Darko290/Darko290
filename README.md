@@ -31,6 +31,20 @@
 
 ## 📘 My top projects
 
+<p align="left">
+  <a href="https://github.com/DarienPerez29/overlord-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=overlord-web&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="overlord-web"></a>
+  <a href="https://github.com/DarienPerez29/mei-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=mei-web&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mei-web"></a>
+  <a href="https://github.com/DarienPerez29/anybooks-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=anybooks-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="anybooks-app"></a>
+  
+  <a href="https://github.com/DarienPerez29/proyecto-caras-uptx-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=proyecto-caras-uptx-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="proyecto-caras-uptx-app"></a>
+  <a href="https://github.com/DarienPerez29/gauss-calculator-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=gauss-calculator-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="gauss-calculator-app"></a>
+  <a href="https://github.com/DarienPerez29/tictactoe-neon-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=tictactoe-neon-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="tictactoe-neon-app"></a>
+  
+  <a href="https://github.com/DarienPerez29/get-current-location-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=get-current-location-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="get-current-location-app"></a>
+  <a href="https://github.com/DarienPerez29/hospital-dpc-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=hospital-dpc-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="hospital-dpc-app"></a>
+  <a href="https://github.com/DarienPerez29/backpacks-dpc-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=backpacks-dpc-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="backpacks-dpc-app"></a>
+</p>
+
 <br/>
 
 ## 📚 Projects I've contributed to
