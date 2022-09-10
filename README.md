@@ -35,11 +35,9 @@
   <a href="https://github.com/DarienPerez29/overlord-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=overlord-web&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="overlord-web"></a>
   <a href="https://github.com/DarienPerez29/mei-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=mei-web&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="mei-web"></a>
   <a href="https://github.com/DarienPerez29/anybooks-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=anybooks-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="anybooks-app"></a>
-  
   <a href="https://github.com/DarienPerez29/proyecto-caras-uptx-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=proyecto-caras-uptx-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="proyecto-caras-uptx-app"></a>
   <a href="https://github.com/DarienPerez29/gauss-calculator-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=gauss-calculator-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="gauss-calculator-app"></a>
   <a href="https://github.com/DarienPerez29/tictactoe-neon-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=tictactoe-neon-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="tictactoe-neon-app"></a>
-  
   <a href="https://github.com/DarienPerez29/get-current-location-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=get-current-location-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="get-current-location-app"></a>
   <a href="https://github.com/DarienPerez29/hospital-dpc-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=hospital-dpc-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="hospital-dpc-app"></a>
   <a href="https://github.com/DarienPerez29/backpacks-dpc-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DarienPerez29&repo=backpacks-dpc-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="backpacks-dpc-app"></a>
@@ -59,8 +57,8 @@
 <br/>
 
 ## 📊 My GitHub stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Darien's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DarienPerez29&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Darien's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarienPerez29&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="180"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Darien's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DarienPerez29&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Darien's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarienPerez29&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 <br/>
 
 <br/>
