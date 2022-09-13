@@ -4,6 +4,7 @@
 <div align="center">
   <a href="https://github.com/DarienPerez29"><img alt="GitHub DarienPerez29" src="https://img.shields.io/github/followers/DarienPerez29?color=%23EEE&label=Follow&logo=github&style=flat-square"></a>
   <a href="https://www.linkedin.com/in/darien-perez-cano/"><img alt="LinkedIn Darien Pérez Cano" src="https://img.shields.io/badge/-Darien%20Pérez%20Cano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darien-perez-cano/"></a>
+  <a href="https://www.codewars.com/users/DarienPerez29"><img alt="CodeWars Darien Pérez Cano" src="https://www.codewars.com/users/DarienPerez29/badges/micro"></a>
 </div>
 
 <br/>
