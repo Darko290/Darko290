@@ -52,7 +52,6 @@
   <a href="https://github.com/feli20/Bicicletas-IN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=feli20&repo=Bicicletas-IN&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="feli20/Bicicletas-IN"></a>
   <a href="https://github.com/Kevin4all/Nova-primary2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kevin4all&repo=Nova-primary2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Kevin4all/Nova-primary2"></a>
 </p>
-  
 
 <br/>
 
