@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Darien Perez 👋</h1>
-<p align="center">🖥️ IT Engineer Student at Polytechnic University of Tlaxcala | Seeking for software development job ⌨️</p>
+<p align="center">🖥️ IT Engineer Student at Polytechnic University of Tlaxcala</p>
 
 <div align="center">
   <a href="https://github.com/DarienPerez29"><img alt="GitHub DarienPerez29" src="https://img.shields.io/github/followers/DarienPerez29?color=%23EEE&label=Follow&logo=github&style=flat-square"></a>
