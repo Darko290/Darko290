@@ -9,7 +9,6 @@
 
 <br/>
 
-
 ## 🛠️ My main skills and tools
 <div align="center">
   <a href="#!"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></a>
