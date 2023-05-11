@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/devonent"><img alt="GitHub Devonent" src="https://img.shields.io/github/followers/devonent?color=%23EEE&label=Follow&logo=github&style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/darien-perez-cano/"><img alt="LinkedIn Darien Pérez Cano" src="https://img.shields.io/badge/-Darien%20Pérez%20Cano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devonent/?locale=en_US"></a>
+  <a href="https://www.linkedin.com/in/devonent/?locale=en_US"><img alt="LinkedIn Darien Perez" src="https://img.shields.io/badge/-Darien%20Perez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devonent/?locale=en_US"></a>
   <a href="https://www.codewars.com/users/devonent"><img alt="CodeWars Darien Pérez Cano" src="https://www.codewars.com/users/devonent/badges/micro"></a>
 </div>
 
